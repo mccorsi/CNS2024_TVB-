@@ -23,23 +23,22 @@ Whole-brain network models have recently emerged as a powerful method for studyi
 ### Welcome & opening remarks 
 TBA (5')
 
+### Hierarchy of timescales and distance to criticality
+L. Gollo (20' talk + 5' Q&A)
+
 ### How can modeling close the loop?
 M.-C. Corsi (20' talk + 5' Q&A)
 
 ### Scale integration: from single cells to the whole-brain
 D. Depannemaecker (20' talk + 5' Q&A)
 
-### TBA
-L. Gollo (20' talk + 5' Q&A)
-
-### Virtual Brains for Healthy Aging and Alzheimer’s Disease
-S. Petkoski (20' talk + 5' Q&A)
-
-### TBA
-L. Gollo (20' talk + 5' Q&A)
+10:20am - 10:50am PDT -> Coffee break
 
 ### From modeling to data analysis: who’s doing what?
 P. Sorrentino (20' talk + 5' Q&A)
+
+### Virtual Brains for Healthy Aging and Alzheimer’s Disease
+S. Petkoski (20' talk + 5' Q&A)
 
 ### Panel discussion
 General discussion involving both the speakers and the audience (20')
