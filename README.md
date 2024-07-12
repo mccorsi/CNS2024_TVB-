@@ -21,7 +21,7 @@ Whole-brain network models have recently emerged as a powerful method for studyi
 ## Timetable
 
 ### Welcome & opening remarks 
-TBA (5')
+Chaired by P. Sorrentino (5')
 
 ### Hierarchy of timescales and distance to criticality
 L. Gollo (20' talk + 5' Q&A)
@@ -42,9 +42,8 @@ S. Petkoski (20' talk + 5' Q&A)
 
 ### Panel discussion
 General discussion involving both the speakers and the audience (20')
+Chaired by M.-C. Corsi
 
-### Conclusion & closing remarks
-TBA (5')
 
 ## Resources
 
