@@ -7,7 +7,7 @@
 Workshop W5 Session 1 - Tuesday July 23, 2024 9:00am - 12:30pm (Natal Time) - room Cedro I
 
 ## Organizers:
-- [Damien Depannemaecker](https://scholar.google.fr/citations?user=lHKsQtoAAAAJ&hl=fr): Postdoc, Institut de Neurosciences des Systèmes, Aix-Marseille University, France 
+- [Damien Depannemaecker](https://scholar.google.fr/citations?user=lHKsQtoAAAAJ&hl=fr): Postdoc, Institut de Neurosciences des Systèmes, Aix-Marseille University, France
 - [Leonardo L. Gollo](https://scholar.google.es/citations?user=jLJiWmMAAAAJ&hl=en): Early-career investigator, Turner Institute for Brain and Mental Health, School of Psychological Sciences, and Monash Biomedical Imaging, Monash University, Victoria, Australia
 - [Spase Petkoski](https://scholar.google.co.uk/citations?user=TSi_ZkIAAAAJ&hl=en): Early-career investigator, Institut de Neurosciences des Systèmes, Aix-Marseille University, France
 - [Pierpaolo Sorrentino](https://scholar.google.nl/citations?user=T1k8qBsAAAAJ&hl=en): Early-career investigator, Institut de Neurosciences des Systèmes, Aix-Marseille University, France & University of Sassari, Department of Biomedical Sciences, Sassari, Italy
@@ -20,31 +20,27 @@ Whole-brain network models have recently emerged as a powerful method for studyi
 
 ## Timetable
 
-### Welcome & opening remarks 
+### Welcome & opening remarks
 Chaired by P. Sorrentino (5')
 
 ### Hierarchy of timescales and distance to criticality
 L. Gollo (20' talk + 5' Q&A)
 
-### A theory-driven approach to data analysis: practical applications
+### A theory-driven approach to data analysis:practical applications
 M.-C. Corsi (20' talk + 5' Q&A)
-
-### Scale integration: from single cells to the whole-brain
-D. Depannemaecker (20' talk + 5' Q&A)
-
-10:20am - 10:50am PDT -> Coffee break
-
-### From modeling to data analysis: who’s doing what?
-P. Sorrentino (20' talk + 5' Q&A)
 
 ### Virtual Brains for Healthy Aging and Alzheimer’s Disease
 S. Petkoski (20' talk + 5' Q&A)
 
+10:20am - 10:50am PDT -> Coffee break
+
+### Scale integration: from single cells to the whole-brain
+D. Depannemaecker (20' talk + 5' Q&A)
+
+### From modeling to data analysis: who’s doing what?
+P. Sorrentino (20' talk + 5' Q&A)
+
+
 ### Panel discussion
 General discussion involving both the speakers and the audience (20')
 Chaired by M.-C. Corsi
-
-
-## Resources
-
-## References
