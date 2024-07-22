@@ -4,7 +4,7 @@
 [33rd Annual Computational Neuroscience Meeting, CNS*2024](https://www.cnsorg.org/cns-2024)
 
 
-Workshop W5 Session 1 - Tuesday July 23, 2024 9:00am - 12:30pm (Natal Time) - room *TBD*
+Workshop W5 Session 1 - Tuesday July 23, 2024 9:00am - 12:30pm (Natal Time) - room Cedro I
 
 ## Organizers:
 - [Damien Depannemaecker](https://scholar.google.fr/citations?user=lHKsQtoAAAAJ&hl=fr): Postdoc, Institut de Neurosciences des Systèmes, Aix-Marseille University, France 
