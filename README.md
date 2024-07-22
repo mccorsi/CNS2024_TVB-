@@ -29,7 +29,7 @@ L. Gollo (20' talk + 5' Q&A)
 ### A theory-driven approach to data analysis:practical applications
 M.-C. Corsi (20' talk + 5' Q&A)
 
-### Virtual Brains for Healthy Aging and Alzheimer’s Disease
+### Linking Brain Structure with Function: Virtual Aging Brain
 S. Petkoski (20' talk + 5' Q&A)
 
 10:20am - 10:50am PDT -> Coffee break
