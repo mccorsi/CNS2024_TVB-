@@ -26,7 +26,7 @@ Chaired by P. Sorrentino (5')
 ### Hierarchy of timescales and distance to criticality
 L. Gollo (20' talk + 5' Q&A)
 
-### TBA
+### A theory-driven approach to data analysis: practical applications
 M.-C. Corsi (20' talk + 5' Q&A)
 
 ### Scale integration: from single cells to the whole-brain
